@@ -7,4 +7,4 @@ Selected random repository from this account
 Check this [link](https://clouza.github.io/random-repository/)
 
 ## Other Things
-array in file ```random.js``` still writed manual, api now available. 
+array in file ```random.js``` still writed auto, api now available. 
